@@ -1,39 +1,26 @@
-# SSC-LapSRN
+# Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks (SSC-LapSRN)
 The repository has been created for the purpose of disseminating the data and utility code associated with the paper "Scale-up Skip Connection for Super-Resolution with Deep Laplacian Pyramid Networks".
 ---
 
-## Installation
+## Overview
+This project is being developed to facilitate easy code usage. Currently, the code is being reorganized and refactored to enhance user accessibility and readability.
 
-The requirements.txt file includes most of the libraries used this project. However, it doesn't include common libraries. You might need to install it manually.
+## Current Status
+The process of code organization and refactoring is underway. Key changes include:
+- Improved code structure
+- Added comments and documentation
+- Included example code
 
-```
-pip install -r .\requirements.txt
-```
+## Timeline
+Expected completion and upload date: **May 29, 2024**
 
-## How to use
+## Contribution
+We welcome contributions! Please feel free to submit Pull Requests. Bug reports and feature requests can be submitted through the Issues section.
 
-**Notebook**
+## Usage
+(Usage examples will be added after the code upload is complete)
 
-**main.ipynb**: It is a one block script in notebook.
-
-## Important Note
-
-
-## Citations
-
-If you use Peer-Reviewer-Recommendation algorithm in your work or conference, please cite us as follows
-
-```
-@misc{Jinwoo-Hyun-et al-2023,
-    author = {},
-    title = {},
-    year = {2024},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/KYRLAB/SSC-LapSRN}}
-}
-```
-
-## Author Summary
+## License
+This project is licensed under the MIT License. For more details, please refer to the `LICENSE` file.
 
 ---
